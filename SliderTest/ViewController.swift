@@ -19,7 +19,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         slider.value = 50
         slider.maximumValue = 0
-        slider.maximumValue = 100
+        slider.maximumValue = 100 //making the slider range
+        
 
     }
 
